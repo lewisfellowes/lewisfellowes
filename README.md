@@ -1,7 +1,10 @@
-### Hi there 👋, I'm LewisOSF
+### Hi there, I'm LewisOSF
 ![](https://wallpaperaccess.com/full/707055.jpg)
 
-I am currently working on QBCore/FiveM server development.
+A hobbiest looking to imporve my development skills.
+
+## Skills
+* 💻 LUA / FiveM Server Development
 
 
 
