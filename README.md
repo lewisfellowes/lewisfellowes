@@ -8,7 +8,7 @@ A hobbiest looking to imporve my development skills.
 
 
 
-[<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' alt='discord' height='40'>](discord.gg/aquilarp)  
+[<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' alt='discord' height='40'>](https://discord.gg/aquilarp)  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lewisosf&show_icons=true" />
 
