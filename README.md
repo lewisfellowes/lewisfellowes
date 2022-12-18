@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm LewisOSF</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewisosf&label=Profile%20views&color=0e75b6&style=flat" alt="lewisosf" /> </p>
+### Hi there 👋, I'm LewisOSF
+![](https://wallpaperaccess.com/full/707055.jpg)
 
-- 🔭 I’m currently working on [AquilaRP](https://discord.gg/aquilarp)
+I am currently working on QBCore/FiveM server development.
 
-- 🌱 I’m currently learning **QBCore | FiveM**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/aquilarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aquilarp" height="30" width="40" /></a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisosf&show_icons=true&locale=en" alt="lewisosf" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lewisosf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discord.gg/aquilarp)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewisosf&" alt="lewisosf" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lewisosf&show_icons=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisosf)](https://github.com/anuraghazra/github-readme-stats)
+
