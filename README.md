@@ -8,7 +8,7 @@ A hobbiest looking to imporve my development skills.
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lewisosf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discord.gg/aquilarp)  
+[<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' alt='discord' height='40'>](discord.gg/aquilarp)  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lewisosf&show_icons=true" />
 
